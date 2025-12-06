@@ -1,9 +1,9 @@
-# Individual's income level prediction
-Often times, data scientists and researchers are biased to advanced machine learning models because of their predictive power. Here, we compared logstic regression with two boosting algorithms and explained why boosting algorithms outperform logistic regression.
+# <img src="https://cdn-icons-png.flaticon.com/128/11315/11315900.png" width="20" /> Motivation
+Often times, data scientists and researchers are biased to advanced machine learning models because of their predictive power. Here, we compared logistic regression model with two boosting algorithms and explained why boosting algorithms outperform logistic regression.
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3176/3176324.png" width="20" /> Objectives
--  Train and Test Logistic Regression and Boosting Algorithms.
--  Create a group bar-chart that demonstrates the key metrices. 
+## <img src="https://cdn-icons-png.flaticon.com/128/3176/3176324.png" width="20" /> Features
+-  Data Wrangling
+-  Comparison between logistic regression and boosting algorithms
 -  Discuss Key Insights.
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/18289/18289400.png" width=20 /> Dataset
